@@ -1,0 +1,530 @@
+@media only screen and (max-width: 1199px){
+
+
+}
+
+@media only screen and (max-width: 991px){
+
+}
+
+@media only screen and (max-width: 810px){
+
+
+}
+
+@media only screen and (max-width: 767px){
+
+.item-content {
+  padding: 0 23.5px;
+  margin-bottom: 39%;
+}
+.rows .col-md-6{
+width: 50%;
+
+}
+.town {
+  padding-right: 295px;
+}
+
+.bean{
+	margin-left: 183px;
+}
+.poem{
+	text-align: center;
+}
+.google img{
+	width: 35%;
+}
+.poem-content h2{
+	padding-bottom: 18px;
+}
+.box{
+	padding: 22px 10px;
+	height: 50%;
+}
+.box h6{
+	margin-bottom: 28px;
+}
+.doller .carousel-caption a{
+	padding: 6px 10px;
+}
+	.rows .col-md-3{
+width: 50%;
+
+}
+.happy{
+	margin-top: 40px;
+}
+.get-start-btn {
+  width: 55% !important;
+}
+.nav-brand{
+	width: 45%;
+}
+.carousel-caption p{
+	display: none;
+}
+.about-content h3 {
+  font-size: 20px;
+  text-align: left;
+}
+.counter .counter-value{
+	font-size: 64px;
+}
+.counter h3 {
+  font-size: 16px;
+  }
+  .count-sec{
+  	padding: 10px 0;
+  }
+.about-content h2 img{
+display: none;
+}
+.type-head h2 img{
+	display: none;
+}
+
+.service{
+	margin-bottom: 50px;
+}
+.service-job {
+  padding: 0px 0 50px;
+}
+
+.russle .col-md-3{
+	width: 50%;
+}
+
+.our-team .title {
+  font-size: 15px;
+}
+
+.russle-2 .col-md-3{
+width: 50%;
+margin-bottom: 40px;
+}
+.heart-img{
+	padding: 12px;
+}
+.heart-content h4 {
+  font-size: 16px;
+  padding: 18px 0 6px;
+}
+.heart-content p {
+  font-size: 12px;
+}
+.heart-img {
+  width: 60%;
+}
+
+.last-menu img {
+  width: 53%;
+}
+
+.fortune-preheader{
+	display: none;
+}
+.listing-banner{
+	padding: 50px 0;
+}
+
+.listing-heading h4 {
+  font-size: 28px;
+}
+.about-col{
+	width: 74%;
+margin: 14px auto;
+}
+.social-icons{
+	display: none;
+}
+.header-content .header-contact li{
+	padding-top: 0px;
+}
+
+.header-top{
+	padding: 14px 0;
+}
+
+.about-page{
+	padding: 50px 0;
+}
+.product-page-details p{
+	padding-bottom: 45px;
+}
+.product-page-details h3{
+	margin: 0px auto 10px;
+}
+
+.address-content h4 {
+  font-size: 17px !important;
+}
+
+.address-img {
+  width: 30%;
+}
+.contact-form{
+	padding-top: 45px;
+}
+.address{
+	padding: 17px 0;
+}
+
+
+
+
+}
+
+@media only screen and (max-width: 575px){
+.item-content{
+padding: 0 77px;
+margin-bottom: 24%;
+}
+
+.town {
+  padding-right: 342px;
+}
+.rain{
+	width: 100%;
+}
+.bean{
+	margin-left: 193px;
+}
+.doller .carousel-caption h1{
+	font-size: 18px;
+}
+.doller .carousel-caption h2{
+	  font-size: 16px;
+	  margin-top: 0px;
+}
+.doller .carousel-caption a{
+	padding: 6px 10px;
+}
+.doller .carousel-caption p{
+	margin-bottom: 4px;
+}
+.owl-nav button{
+margin-left: -5px;
+}
+.owl-next{
+	margin-right: -5px;
+}
+.connect a{
+	padding-left: 14px;
+}
+.rows .col-md-6{
+width: 50%;
+
+}
+	.rows .col-md-3{
+width: 50%;
+
+}
+.happy{
+	margin-top: 40px;
+}
+.team-details .col-md-3{
+width: 50%;
+float: left;
+}
+
+}
+
+
+@media only screen and (max-width: 545px){
+
+
+.item-content {
+  padding: 0px 70px;
+  margin-bottom: 26%;
+}
+.rows .col-md-3{
+width: 50%;
+
+}
+.team-details .col-md-3{
+width: 50%;
+float: left;
+}
+.control{
+	padding: 50px 0;
+}
+}
+@media only screen and (max-width: 467px){
+	.best li a{
+		padding-left: 2px;
+	}
+	.doller .carousel-caption h1{
+		font-size: 24px;
+		margin-bottom: 10px;
+	}
+	.rows .col-md-3{
+width: 50%;
+
+}
+.town {
+  padding-right: 236px;
+}
+
+.icon i{
+	margin-right: 0px;
+}
+.doller .carousel-caption{
+	top: 5% !important;
+}
+.doller .carousel-caption h2{
+	font-size: 14px;
+margin-top: 0px;
+}
+.doller .carousel-caption p{
+	font-size: 11px;
+margin-top: 0px;
+}
+.doller .carousel-caption{
+display: none;
+}
+.doller .carousel-caption a{
+	padding: 4px 15px;
+font-size: 16px;
+}
+.item-content{
+	padding: 0 50.5px;
+margin-bottom: 30%;
+}
+.box{
+	width: 100%;
+}
+.box h3{
+	width: 46%;
+	margin-top: 0%;
+	margin-bottom: 6%;
+}
+.paint{
+	width: 82%;
+}
+.happy{
+	margin-top: 40px;
+}
+.team-details .col-md-3{
+width: 50%;
+float: left;
+}
+.control{
+	padding: 18px 0;
+}
+
+}
+@media only screen and (max-width: 428px){
+
+.item-content {
+  padding: 0 41.5px;
+  margin-bottom: 33%;
+}
+
+
+}
+
+@media only screen and (max-width: 414px){
+.item-content {
+  padding: 0 38.5px;
+  margin-bottom: 33%;
+}
+.our-team::after {
+  width: 60%;
+  left: 23%;
+  height: 59%;
+  }
+.happy{
+	margin-top: 40px;
+}
+.formal{
+	display: none !important;
+}
+.bean {
+  margin-left: 113px;
+}
+.town {
+  padding-right: 181px;
+}
+.box h3{
+	    width: 45%;
+	    margin-top: 0%;
+}
+.control img{
+	margin-bottom: 25px;
+}
+.team-details .col-md-3{
+width: 50%;
+float: left;
+}
+.town{
+	
+}
+.control{
+	padding: 18px 0;
+}
+.control h2 {
+  padding: 6px 0 0 0;
+}
+}
+
+
+  @media only screen and (max-width: 400px){
+
+.item-content {
+  padding: 0 33.5px;
+  margin-bottom: 35%;
+   }
+   .happy{
+	margin-top: 40px;
+}
+.control img{
+	margin-bottom: 25px;
+}
+.town {
+  padding-right: 171px;
+}
+}
+
+
+  @media only screen and (max-width: 375px){
+.item-content {
+  padding: 0 29.5px;
+  margin-bottom: 37%;
+}
+.town {
+  padding-right: 142px;
+}
+.box h3 {
+  width: 51%;
+}
+.best li a{
+	font-size: 12px;
+	padding-right: 3px;
+}
+
+.doller .carousel-caption h1{
+	font-size: 20px;
+	margin-bottom: 12px;
+}
+.doller .carousel-caption p{
+	margin-bottom: 5px;
+}
+.happy{
+	margin-top: 40px;
+}
+.formal{
+	display: none !important;
+}
+.team {
+  margin-top: 16px;
+}
+.item-content {
+  padding: 0 29.5px;
+  margin-bottom: 37%;
+}
+
+}
+
+
+@media only screen and (max-width: 384px){
+
+.town {
+  padding-right: 151px;
+}
+.item-content {
+  padding: 0 29.5px;
+  margin-bottom: 35%;
+}
+.team {
+  margin-top: 16px;
+}
+}
+
+@media only screen and (max-width: 375px){
+
+
+
+.team {
+  margin-top: 16px;
+}
+.town {
+  padding-right: 143px;
+}
+}
+@media only screen and (max-width: 360px){
+.our-team::after {
+  width: 63%;
+  left: 23%;
+  height: 60%;
+}
+	.poem{
+		padding: 27px 0;
+	}
+.our h2 {
+  font-size: 23px;
+}
+
+	.poem-content h2{
+		font-size: 17px;
+	}
+	.box p{
+		font-size: 22px;
+	}
+	.town {
+  padding-right: 130px;
+}
+	.box h4{
+		font-size: 13px;
+		margin-left: -18px;
+	}
+	.box a{
+		padding: 10px 30px;
+	}
+.team {
+  margin-top: 16px;
+}
+	.story h2{
+		font-size: 25px;
+	}
+	.item-content {
+     padding: 0 34px;
+     margin-bottom: 38%;
+
+}
+.display-4{
+	  font-size: 30px;
+}
+.box{
+	width: 100%;
+}
+.box h3{
+	  width: 63%;
+}
+.box h4{
+	margin-left: -23px;
+	font-size: 16px;
+}
+.box a{
+	padding: 10px 81px;
+}
+.item-content{
+padding: 0 43px;
+margin-bottom: 39%;
+}
+.item-content h3{
+	font-size: 10px;
+}
+.item-content p{
+	font-size: 8px;
+}
+.formal{
+	display: none !important;
+}
+.happy{
+	margin-top: 40px;
+}
+.root-fast{
+	margin-bottom: 28px;
+}
+}
